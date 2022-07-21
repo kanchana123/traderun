@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/traderun/static/css/main.073c9b0a.css",
-    "main.js": "/traderun/static/js/main.784be83f.js",
-    "static/js/787.6a541d2d.chunk.js": "/traderun/static/js/787.6a541d2d.chunk.js",
-    "static/media/stocks1.png": "/traderun/static/media/stocks1.f8bc197434a75d8448de.png",
-    "static/media/moneyhand.png": "/traderun/static/media/moneyhand.a39d82c0b039daf6d22c.png",
-    "static/media/moneysack1.png": "/traderun/static/media/moneysack1.c9b7f55729bd2aa7fe2a.png",
-    "static/media/logo.svg": "/traderun/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/traderun/index.html",
-    "main.073c9b0a.css.map": "/traderun/static/css/main.073c9b0a.css.map",
-    "main.784be83f.js.map": "/traderun/static/js/main.784be83f.js.map",
-    "787.6a541d2d.chunk.js.map": "/traderun/static/js/787.6a541d2d.chunk.js.map"
+    "main.css": "./static/css/main.073c9b0a.css",
+    "main.js": "./static/js/main.d8b81b31.js",
+    "static/js/787.6a541d2d.chunk.js": "./static/js/787.6a541d2d.chunk.js",
+    "static/media/stocks1.png": "./static/media/stocks1.f8bc197434a75d8448de.png",
+    "static/media/moneyhand.png": "./static/media/moneyhand.a39d82c0b039daf6d22c.png",
+    "static/media/moneysack1.png": "./static/media/moneysack1.c9b7f55729bd2aa7fe2a.png",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
+    "main.d8b81b31.js.map": "./static/js/main.d8b81b31.js.map",
+    "787.6a541d2d.chunk.js.map": "./static/js/787.6a541d2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.784be83f.js"
+    "static/js/main.d8b81b31.js"
   ]
 }
